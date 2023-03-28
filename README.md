@@ -8,3 +8,5 @@ neural networks.
 
 • Finetune the experiment with multiple backbones like ResNet, EfficientNet, and ViT and achieve a maximum
 improvement of 11.16% on F1 score
+
+Credit: Hoang Trung Dung*, Nguyen Tuan Kiet, Cao Viet Hai Nam, Le Viet Thanh Long
